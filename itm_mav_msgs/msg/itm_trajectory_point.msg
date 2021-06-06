@@ -4,6 +4,10 @@ float64 z
 float64 vx
 float64 vy
 float64 vz
+float64 load_x
+float64 load_y
+float64 load_vx
+float64 load_vy
 float64 roll
 float64 pitch
 float64 yaw
